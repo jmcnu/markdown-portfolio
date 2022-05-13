@@ -1,1 +1,1 @@
-[GitHub Profile]https://github.com/jmcnu
+[GitHub Profile](https://github.com/jmcnu)
